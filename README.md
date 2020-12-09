@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](octocat_cientist.png)
+<img src="octocat_cientist.png" width="200">
 
 <!--
 **marcobelo/marcobelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
