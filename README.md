@@ -1,6 +1,3 @@
-### Hi there 👋
-<img src="octocat_cientist.png" width="200">
-
 <!--
 **marcobelo/marcobelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+<img src="octocat_cientist.png" width="200">
+
+Hello I'm Marco Belo and I'm currently working with Python + AWS
+
+[<img align="left" alt="Marco Belo @ LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/marco-belo/)<br clear=all>
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcobelo&layout=compact&count_private=true&show_icons=true&theme=gruvbox)
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=marcobelo&count_private=true&show_icons=true&show_icons=true&theme=gruvbox)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=marcobelo&hide_border=true&show_icons=true&theme=gruvbox)
