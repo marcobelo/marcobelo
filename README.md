@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-<img src="octocat_cientist.png" width="200">
 
-Hello I'm Marco Belo and I'm currently working with Python + AWS
+Hello I'm Marco Belo and I work as Backend Software Engineer since 2018
 
 [<img align="left" alt="Marco Belo @ LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/marco-belo/)<br clear=all>
 
